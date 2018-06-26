@@ -76,7 +76,7 @@
   "CONNECTION_TO_ROBOT": "to robot",
   "CONNECTION_WAIT_FOR_CONNECTION": "wait for connection",
   "CONNECTION_WAIT_TOOLTIP": "Waits for a connection via Bluetooth.",
-  "DATATABLE_ACTUALIZATION": "Actualization date",
+  "DATATABLE_ACTUALIZATION": "Modification date",
   "DATATABLE_CONFIGURATIONS": "configurations",
   "DATATABLE_CONFIGURATION_NAME": "Configuration name",
   "DATATABLE_CREATED_BY": "Creator",
